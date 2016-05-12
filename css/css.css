@@ -1,0 +1,13 @@
+
+.enlarge{
+    margin:10px;
+    width: 400px;
+    height:266px;
+    overflow: hidden;
+    position: relative;
+}
+.enlarge img{
+    width: 400px;
+    height: 266px;
+    position: absolute;
+}
