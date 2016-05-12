@@ -1,5 +1,3 @@
-
-
 (function($){
     $.fn.enlarge = function(options){
         var settings = $.extend({}, {zoomSize:'1.5',zoomSpeed:'500'}, options),
